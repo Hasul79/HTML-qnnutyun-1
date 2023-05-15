@@ -2,4 +2,4 @@
 
 https://hasul79.github.io/HTML-qnnutyun-1/
 
-#autor: Hasmik Minasyan
+# autor: Hasmik Minasyan
